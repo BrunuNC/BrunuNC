@@ -16,15 +16,10 @@
 -->
   
 ##
-<div> 
-  <a href = "mailto:brununc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-nunes-87b9671b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Gmail Badge](https://img.shields.io/badge/-brununc@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:brununc@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Nunes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-nunes-87b9671b1)](https://www.linkedin.com/in/bruno-nunes-87b9671b1)
  
   ![Snake animation](https://github.com/BrunuNC/BrunuNC/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-
 
 <!--
 **BrunuNC/BrunuNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
